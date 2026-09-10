@@ -1,0 +1,19 @@
+src/content/changelog/logs/2026-08-20-pqc-key-exchange-visibility.mdx
+  s_9c9be9a82fdc34::t_32a5195c24fe67 12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "997690946cc544bdf03eeec08a3a071e15135173",
+  "prompts": {},
+  "sessions": {
+    "s_9c9be9a82fdc34": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f7891650cffewNUcZxoO6LxkR5",
+        "model": "@cf/moonshotai/kimi-k2.6"
+      },
+      "human_author": "spark <spark@cloudflare.com>"
+    }
+  }
+}
